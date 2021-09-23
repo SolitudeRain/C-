@@ -1,5 +1,5 @@
 // https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
-'''cpp
+```cpp
 #include <string>
 #include <iostream>
 using namespace std;
@@ -21,4 +21,4 @@ public:
         return cnt;
     }
 };
-'''
+```
